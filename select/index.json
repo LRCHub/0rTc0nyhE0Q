@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "へべれけジャンキー",
+  "base_artist": "syudou",
+  "createdAt": "2026-02-15T03:24:57.770320Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "へべれけジャンキー",
+      "artist": "syudou",
+      "has_synced": true,
+      "path": "select/01_へべれけジャンキー_syudou.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "へべれけジャンキー",
+      "artist": "syudou",
+      "has_synced": false,
+      "path": "select/pl_01_へべれけジャンキー_syudou.txt"
+    }
+  ]
+}
